@@ -8,7 +8,7 @@ Customer churn is a significant issue for businesses, particularly in the financ
 
 ## Dataset
 
-The dataset used for this project is the "Churn_Modelling.csv" file, which contains information about 10,000 credit card customers. The dataset includes the following features:
+The dataset used for this project is the "Churn_Modelling.csv" file from kaggle https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction, which contains information about 10,000 credit card customers. The dataset includes the following features:
 
 - RowNumber: Row index
 - CustomerId: Unique identifier for each customer
